@@ -17,7 +17,7 @@ public class dugujiujian {
         System.out.println("啊哈hhhhhh");
         System.out.println("111111112");
         System.out.println("111111112");
-        System.out.println("111111112");
+        System.out.println("00000");
 
 
     }
